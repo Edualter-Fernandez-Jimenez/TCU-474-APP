@@ -1,0 +1,11 @@
+C:\Users\Edu\source\repos\TCU-474 APP\BD\bin\Debug\BD.dll
+C:\Users\Edu\source\repos\TCU-474 APP\BD\bin\Debug\BD.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\BD\obj\Debug\BD.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\TCU-474 APP\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\TCU-474 APP\BD\obj\Debug\BD.dll
+C:\Users\Edu\source\repos\TCU-474 APP\BD\obj\Debug\BD.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\Edu\source\repos\TCU-474 APP\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\Users\Edu\source\repos\TCU-474 APP\BD\bin\Debug\Datos.dll
+C:\Users\Edu\source\repos\TCU-474 APP\BD\bin\Debug\Datos.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\BD\obj\Debug\BD.csproj.CopyComplete

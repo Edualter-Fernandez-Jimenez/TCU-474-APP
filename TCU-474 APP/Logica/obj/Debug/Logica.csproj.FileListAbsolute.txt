@@ -1,0 +1,11 @@
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\bin\Debug\Logica.dll
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\bin\Debug\Logica.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\obj\Debug\Logica.dll
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\obj\Debug\Logica.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\bin\Debug\BD.dll
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\bin\Debug\Datos.dll
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\bin\Debug\BD.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\bin\Debug\Datos.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\Logica\obj\Debug\Logica.csproj.CopyComplete

@@ -1,0 +1,114 @@
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Azure.Core.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Azure.Identity.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\BD\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

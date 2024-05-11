@@ -1,0 +1,6 @@
+C:\Users\Edu\source\repos\TCU-474 APP\Datos\bin\Debug\Datos.dll
+C:\Users\Edu\source\repos\TCU-474 APP\Datos\bin\Debug\Datos.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\Datos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\TCU-474 APP\Datos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\TCU-474 APP\Datos\obj\Debug\Datos.dll
+C:\Users\Edu\source\repos\TCU-474 APP\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,13 @@
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\bin\Debug\TCU-474 APP.dll.config
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\bin\Debug\TCU-474 APP.dll
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\bin\Debug\TCU-474 APP.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\obj\Debug\TCU-474 APP.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\obj\Debug\TCU_474_APP.Form1.resources
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\obj\Debug\TCU_474_APP.Properties.Resources.resources
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\obj\Debug\TCU-474 APP.csproj.GenerateResource.cache
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\obj\Debug\TCU-474 APP.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\obj\Debug\TCU-474 APP.dll
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\obj\Debug\TCU-474 APP.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\bin\Debug\BD.dll
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\bin\Debug\BD.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\TCU-474 APP\obj\Debug\TCU-474 APP.csproj.CopyComplete

@@ -1,0 +1,86 @@
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\Datos.dll
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\Datos.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmAgregarProyecto.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Microempresario.frmAgregarMicroempresario.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\Logica.dll
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\BD.dll
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\Logica.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\BD.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Microempresario.frmModificarMicroempresario.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Microempresario.frmBuscarModificarMicroempresario.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Microempresario.frmListarMicroempresarios.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Microempresario.FrmConsultarUnoMicroempresario.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuario.frmNuevoUsuario.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuario.frmConsultarUnoUsuario.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuario.frmModificarUsuario.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuario.frmBuscarModificarUsuario.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuario.frmListarUsuarios.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmBuscarModificarProyecto.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmListarProyectos.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmModificarEstado.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmModificarProyecto.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmConsultarUnoProyecto.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmEliminarProyecto.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reportes.frmMicroAtendidosPorZona.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\UCR-TCU-474.exe.config
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\UCR-TCU-474.exe.manifest
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\UCR-TCU-474.application
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\UCR-TCU-474.exe
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\bin\Debug\UCR-TCU-474.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR_TCU_474.Properties.Resources.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR-TCU-474.exe.manifest
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR-TCU-474.application
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR-TCU-474.exe
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR-TCU-474.pdb
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR_TCU_474.Proyecto.AreasInteres.frmAgregarAreaInteres.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR_TCU_474.Proyecto.AreasInteres.frmGestionarAreasInteres.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR_TCU_474.Reportes.frmProyectosPorAreaInteres.resources
+C:\Users\Edu\source\repos\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR_TCU_474.Reportes.frmMicroUltFechAten.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\UCR-TCU-474.exe.config
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\UCR-TCU-474.exe.manifest
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\UCR-TCU-474.application
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\UCR-TCU-474.exe
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\UCR-TCU-474.pdb
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\Datos.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\Logica.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\BD.dll
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\Datos.pdb
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\Logica.pdb
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\bin\Debug\BD.pdb
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\Vista.csproj.AssemblyReference.cache
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Microempresario.frmAgregarMicroempresario.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Microempresario.frmBuscarModificarMicroempresario.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Microempresario.FrmConsultarUnoMicroempresario.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Microempresario.frmListarMicroempresarios.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Microempresario.frmModificarMicroempresario.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR_TCU_474.Properties.Resources.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR_TCU_474.Proyecto.AreasInteres.frmAgregarAreaInteres.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR_TCU_474.Proyecto.AreasInteres.frmGestionarAreasInteres.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmAgregarProyecto.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmBuscarModificarProyecto.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmConsultarUnoProyecto.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmEliminarProyecto.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmListarProyectos.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmModificarEstado.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proyecto.frmModificarProyecto.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reportes.frmMicroAtendidosPorZona.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR_TCU_474.Reportes.frmMicroUltFechAten.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR_TCU_474.Reportes.frmProyectosPorAreaInteres.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuario.frmBuscarModificarUsuario.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuario.frmConsultarUnoUsuario.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuario.frmListarUsuarios.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuario.frmModificarUsuario.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuario.frmNuevoUsuario.resources
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\Vista.csproj.GenerateResource.cache
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR-TCU-474.exe.manifest
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR-TCU-474.application
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\Vista.csproj.CopyComplete
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR-TCU-474.exe
+D:\Root\Users\Edu\Documents\UCR\TCU-474 Developer\TCU-474 APP\WindowsFormsApp1\obj\Debug\UCR-TCU-474.pdb

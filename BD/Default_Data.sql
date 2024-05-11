@@ -1,0 +1,414 @@
+INSERT INTO [dbo].[Estados_Proyectos] ([Nombre]) VALUES ('Generado');
+INSERT INTO [dbo].[Estados_Proyectos] ([Nombre]) VALUES ('En Ejecución');
+INSERT INTO [dbo].[Estados_Proyectos] ([Nombre]) VALUES ('Finalizado');
+
+INSERT INTO [dbo].[Modalidad] ([Nombre]) VALUES ('Virtual');
+INSERT INTO [dbo].[Modalidad] ([Nombre]) VALUES ('Bimodal');
+INSERT INTO [dbo].[Modalidad] ([Nombre]) VALUES ('Presencial');
+
+INSERT INTO [dbo].[Estados_Usuarios] ([Nombre]) VALUES ('Activo');
+INSERT INTO [dbo].[Estados_Usuarios] ([Nombre]) VALUES ('Inactivo');
+INSERT INTO [dbo].[Estados_Usuarios] ([Nombre]) VALUES ('Suspendido');
+INSERT INTO [dbo].[Estados_Usuarios] ([Nombre]) VALUES ('Prorroga');
+
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (11,'Ciudad Universitaria Rodrigo Facio');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (21,'Recinto de San Ramón');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (22,'Recinto de Grecia');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (31,'Recinto de Turrialba');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (32,'Recinto de Paraíso');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (33,'Recinto de Guápiles');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (41,'Recinto de Liberia');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (51,'Recinto de Limón');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (52,'Recinto Siquirres');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (61,'Recinto de Puntarenas');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (71,'Recinto de Golfito');
+INSERT INTO [dbo].[Sedes] ([Id_Sede],[Nombre]) VALUES (81,'Recinto de Alajuela');
+
+
+-- Carrera 110101: BACH. Y LIC. EN ARTES DRAMÁTICAS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110101','BACH. Y LIC. EN ARTES DRAMÁTICAS');
+
+-- Carrera 110202: BACH. Y LIC. EN HISTORIA DEL ARTE
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110202','BACH. Y LIC. EN HISTORIA DEL ARTE');
+
+-- Carrera 110213: BACH. Y LIC. EN DISEÑO PLÁSTICO ÉNFASIS DISEÑO PICTÓRICO
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110213','BACH. Y LIC. EN DISEÑO PLÁSTICO ÉNFASIS DISEÑO PICTÓRICO');
+
+-- Carrera 110214: BACH. Y LIC. EN DISEÑO GRÁFICO
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110214','BACH. Y LIC. EN DISEÑO GRÁFICO');
+
+-- Carrera 110302: BACH. Y LIC. EN MÚSICA CON ÉNFASIS EN COMPOSICIÓN
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110302','BACH. Y LIC. EN MÚSICA CON ÉNFASIS EN COMPOSICIÓN');
+
+-- Carrera 110310: BACH. Y LIC. EN MÚSICA CON ÉNFASIS EN CANTO
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110310','BACH. Y LIC. EN MÚSICA CON ÉNFASIS EN CANTO');
+
+-- Carrera 110311: BACH. Y LIC. EN MÚSICA ÉNFASIS INSTRUMENTOS DE CUERDA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110311','BACH. Y LIC. EN MÚSICA ÉNFASIS INSTRUMENTOS DE CUERDA');
+
+-- Carrera 110312: BACH. Y LIC. EN MÚSICA ÉNFASIS INSTRUMENTOS DE VIENTO O PERCUSIÓN
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110312','BACH. Y LIC. EN MÚSICA ÉNFASIS INSTRUMENTOS DE VIENTO O PERCUSIÓN');
+
+-- Carrera 120101: BACH. Y LIC. EN FILOLOGÍA ESPAÑOLA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('120101','BACH. Y LIC. EN FILOLOGÍA ESPAÑOLA');
+
+-- Carrera 120102: BACH. Y LIC. EN FILOLOGÍA CLÁSICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('120102','BACH. Y LIC. EN FILOLOGÍA CLÁSICA');
+
+-- Carrera 120201: BACH. Y LIC. EN FILOSOFÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('120201','BACH. Y LIC. EN FILOSOFÍA');
+
+-- Carrera 120303: BACH. EN INGLÉS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('120303','BACH. EN INGLÉS');
+
+-- Carrera 120304: BACH. EN FRANCÉS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('120304','BACH. EN FRANCÉS');
+
+-- Carrera 210101: BACH. Y LIC. EN BIOLOGÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('210101','BACH. Y LIC. EN BIOLOGÍA');
+
+-- Carrera 210201: BACH. EN FÍSICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('210201','BACH. EN FÍSICA');
+
+-- Carrera 210301: BACH. Y LIC. EN GEOLOGÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('210301','BACH. Y LIC. EN GEOLOGÍA');
+
+-- Carrera 210401: BACH. Y LIC. EN MATEMÁTICAS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('210401','BACH. Y LIC. EN MATEMÁTICAS');
+
+-- Carrera 210402: BACH. Y LIC. EN CIENCIAS ACTUARIALES
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('210402','BACH. Y LIC. EN CIENCIAS ACTUARIALES');
+
+-- Carrera 210403: BACH. Y LIC. EN EDUCACIÓN MATEMÁTICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('210403','BACH. Y LIC. EN EDUCACIÓN MATEMÁTICA');
+
+-- Carrera 210501: BACH. Y LIC. EN QUÍMICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('210501','BACH. Y LIC. EN QUÍMICA');
+
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('310101', 'BACH. Y LIC. EN DERECHO');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320208', 'BACH. EN LA ENSEÑANZA DEL INGLÉS');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320209', 'BACH. EN LA ENSEÑANZA DEL FRANCÉS');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320233', 'BACH. EN LA ENSEÑANZA DE LA FILOSOFÍA');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320242', 'BACH. Y LIC. EN EDUCACIÓN PRIMARIA');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320243', 'BACH. Y LIC. EN LA ENSEÑANZA DE LAS MATEMÁTICAS');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320244', 'BACH. ENS. ESTUDIOS SOCIALES Y LIC. ENS. ESTUDIOS SOC. Y EDUC. CÍVICA');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320246', 'BACH. Y LIC. ENSEÑANZA DE LA MÚSICA');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320251', 'BACH. Y LIC. EN LA ENSEÑANZA DEL CASTELLANO Y LITERATURA');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320257', 'BACH. EDUCACIÓN PREESCOLAR Y LIC. EDUCACIÓN PREESCOLAR ÉNFASIS');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320259', 'BACH. Y LIC. EN LA ENSEÑANZA DE CIENCIAS NATURALES');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320311', 'BACH. Y LIC. CIENCIAS DE LA EDUCACIÓN ÉNFASIS ORIENTACIÓN');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320317', 'BACH. EN CS. DE LA EDUCACIÓN: EDUCACIÓN ESPECIAL');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320401', 'BACH. EN BIBLIOTECOLOGÍA ÉNFASIS CIENCIAS DE LA INFORMACIÓN');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320402', 'BACH. EN BIBLIOTECOLOGÍA ÉNFASIS BIBLIOTECAS EDUCATIVAS');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320507', 'BACH. EN CIENCIAS DEL MOVIMIENTO HUMANO');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330102', 'BACH. Y LIC. EN DIRECCIÓN DE EMPRESAS');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330103', 'BACH. Y LIC. EN CONTADURÍA PÚBLICA');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330212', 'DIPL. ADM. ADUANERA, BACH. ADMINIST. ADUANERA Y COMERCIO EXTERIOR');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330213', 'DIPL. Y BACH. EN ADM. PÚBLICA Y LIC. EN ADMINISTRACIÓN PÚBLICA');
+
+-- Carrera 510109: LICENCIATURA EN ENFERMERÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('510109','LICENCIATURA EN ENFERMERÍA');
+
+-- Carrera 510201: BACH. EN CIENCIAS MEDICAS Y LIC. EN MEDICINA Y CIRUGÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('510201','BACH. EN CIENCIAS MEDICAS Y LIC. EN MEDICINA Y CIRUGÍA');
+
+-- Carrera 510301: LICENCIATURA EN NUTRICIÓN
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('510301','LICENCIATURA EN NUTRICIÓN');
+
+-- Carrera 510407: BACH. Y LIC. EN TERAPIA FÍSICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('510407','BACH. Y LIC. EN TERAPIA FÍSICA');
+
+-- Carrera 510408: BACH. Y LIC. EN SALUD AMBIENTAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('510408','BACH. Y LIC. EN SALUD AMBIENTAL');
+
+-- Carrera 510418: LIC. EN AUDIOLOGÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('510418','LIC. EN AUDIOLOGÍA');
+
+-- Carrera 510419: BACH. Y LIC. EN ORTOPROTESIS Y ORTOPEDIA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('510419','BACH. Y LIC. EN ORTOPROTESIS Y ORTOPEDIA');
+
+-- Carrera 510421: BACH. Y LIC. EN IMAG. DIAGNÓSTICA Y TERAPÉUTICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('510421','BACH. Y LIC. EN IMAG. DIAGNÓSTICA Y TERAPÉUTICA');
+
+-- Carrera 510502: BACH. Y LIC. EN PROMOCIÓN DE LA SALUD
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('510502','BACH. Y LIC. EN PROMOCIÓN DE LA SALUD');
+
+-- Carrera 520101: LIC. EN ODONTOLOGÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('520101','LIC. EN ODONTOLOGÍA');
+
+-- Carrera 530101: LIC. EN MICROBIOLOGÍA Y QUÍMICA CLÍNICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('530101','LIC. EN MICROBIOLOGÍA Y QUÍMICA CLÍNICA');
+
+-- Carrera 530102: DIP. EN ASISTENTE DE LABORATORIO
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('530102','DIP. EN ASISTENTE DE LABORATORIO');
+
+-- Carrera 540101: LIC. EN FARMACIA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('540101','LIC. EN FARMACIA');
+
+-- Carrera 910102: BACH. Y LIC. EN AGRONOMÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('910102','BACH. Y LIC. EN AGRONOMÍA');
+
+-- Carrera 910202: BACH. Y LIC. EN INGENIERÍA AGRONÓMICA ÉNFASIS EN ZOOTECNIA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('910202','BACH. Y LIC. EN INGENIERÍA AGRONÓMICA ÉNFASIS EN ZOOTECNIA');
+
+-- Carrera 910307: BACH. ECONOMÍA AGRÍCOLA Y AGRONEG. Y LIC. ECONOMÍA AGRÍCOLA Y AGRO.
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('910307','BACH. ECONOMÍA AGRÍCOLA Y AGRONEG. Y LIC. ECONOMÍA AGRÍCOLA Y AGRO.');
+
+-- Carrera 910402: LICENCIATURA EN INGENIERÍA DE ALIMENTOS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('910402','LICENCIATURA EN INGENIERÍA DE ALIMENTOS');
+
+-- Carrera 110213 BACH. Y LIC. EN DISEÑO PLÁSTICO ÉNFASIS DISEÑO PICTÓRICO 540,24
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110213','BACH. Y LIC. EN DISEÑO PLÁSTICO ÉNFASIS DISEÑO PICTÓRICO');
+
+-- Carrera 110214 BACH. Y LIC. EN DISEÑO GRÁFICO 579,78
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110214','BACH. Y LIC. EN DISEÑO GRÁFICO');
+
+-- Carrera 310101 BACH. Y LIC. EN DERECHO 578,57
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('310101','BACH. Y LIC. EN DERECHO');
+
+-- Carrera 320243 BACH. Y LIC. EN LA ENSEÑANZA DE LAS MATEMÁTICAS 464,37
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320243','BACH. Y LIC. EN LA ENSEÑANZA DE LAS MATEMÁTICAS');
+
+-- Carrera 320246 BACH. Y LIC. ENSEÑANZA DE LA MUSICA 341,19
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320246','BACH. Y LIC. ENSEÑANZA DE LA MUSICA');
+
+-- Carrera 330102 BACH. Y LIC. EN DIRECCIÓN DE EMPRESAS 558,66
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330102','BACH. Y LIC. EN DIRECCIÓN DE EMPRESAS');
+
+-- Carrera 340201 BACH. Y LIC. EN PSICOLOGÍA 595,94
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('340201','BACH. Y LIC. EN PSICOLOGÍA');
+
+-- Carrera 420302 LIC. EN INGENIERÍA INDUSTRIAL 588,22
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('420302','LIC. EN INGENIERÍA INDUSTRIAL');
+
+-- Carrera 600002 BACHILLERATO EN INFORMÁTICA EMPRESARIAL 616,40
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600002','BACHILLERATO EN INFORMÁTICA EMPRESARIAL');
+
+-- Carrera 600110 BACH. EN LA ENSEÑANZA DEL CASTELLANO Y LITERATURA 369,83
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600110','BACH. EN LA ENSEÑANZA DEL CASTELLANO Y LITERATURA');
+
+-- Carrera 600113 BACH. Y LIC. EN LA ENSEÑANZA DEL INGLÉS 483,36
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600113','BACH. Y LIC. EN LA ENSEÑANZA DEL INGLÉS');
+
+-- Carrera 600117 BACH. EN CIENCIAS DE LA EDUCACIÓN PRIMARIA 474,43
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600117','BACH. EN CIENCIAS DE LA EDUCACIÓN PRIMARIA');
+
+-- Carrera 600119 BACH. Y LIC. EN TRABAJO SOCIAL 540,74
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600119','BACH. Y LIC. EN TRABAJO SOCIAL');
+
+-- Carrera 600120 BACH. CIENCIAS EDUCACIÓN PRIMARIA CONCENTRACIÓN EN INGLÉS 485,55
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600120','BACH. CIENCIAS EDUCACIÓN PRIMARIA CONCENTRACIÓN EN INGLÉS');
+
+-- Carrera 600121 BACH. CIENCIAS EDUCACIÓN PREESCOLAR CONCENTRACIÓN EN INGL. 509,56
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600121','BACH. CIENCIAS EDUCACIÓN PREESCOLAR CONCENTRACIÓN EN INGL.');
+
+-- Carrera 600123 BACH. EN GESTIÓN DE LOS RECURSOS NATURALES 490,53
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600123','BACH. EN GESTIÓN DE LOS RECURSOS NATURALES');
+
+-- Carrera 600124 BACH. EN CIENCIAS DE LA EDUCACIÓN INICIAL 504,44
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600124','BACH. EN CIENCIAS DE LA EDUCACIÓN INICIAL');
+
+-- Carrera 600125 BACH. EN LA ENSEÑANZA ESTUDIOS SOCIALES Y LA EDUCACIÓN CÍVIC. 484,94
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600125','BACH. EN LA ENSEÑANZA ESTUDIOS SOCIALES Y LA EDUCACIÓN CÍVICA');
+
+-- Carrera 1: BACHILLERATO EN INFORMÁTICA EMPRESARIAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre])
+VALUES ('600002', 'BACHILLERATO EN INFORMÁTICA EMPRESARIAL');
+
+-- Carrera 2: BACH. Y LIC. EN TRABAJO SOCIAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre])
+VALUES ('600119', 'BACH. Y LIC. EN TRABAJO SOCIAL');
+
+-- Carrera 3: BACH. Y LIC. EN LABORATORISTA QUÍMICO
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre])
+VALUES ('600126', 'BACH. Y LIC. EN LABORATORISTA QUÍMICO');
+
+-- Carrera 4: BACH. EN GESTIÓN INTEGRAL DEL RECURSO HÍDRICO
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre])
+VALUES ('600127', 'BACH. EN GESTIÓN INTEGRAL DEL RECURSO HÍDRICO');
+
+-- Carrera 5: BACHILLERATO EN MODELACIÓN MATEMÁTICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre])
+VALUES ('600130', 'BACHILLERATO EN MODELACIÓN MATEMÁTICA');
+
+-- Carrera 6: BACH. EN TURISMO ECOLÓGICO Y LIC. GESTIÓN ECOTURISTICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre])
+VALUES ('600307', 'BACH. EN TURISMO ECOLÓGICO Y LIC. GESTIÓN ECOTURISTICA');
+
+-- Carrera: BACH. Y LIC. EN DISEÑO GRÁFICO
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110214','BACH. Y LIC. EN DISEÑO GRÁFICO');
+
+-- Carrera: BACH. EN CIENCIAS DEL MOVIMIENTO HUMANO
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320507','BACH. EN CIENCIAS DEL MOVIMIENTO HUMANO');
+
+-- Carrera: BACH. Y LIC. EN CONTADURÍA PÚBLICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330103','BACH. Y LIC. EN CONTADURÍA PÚBLICA');
+
+-- Carrera: BACHILLERATO EN INFORMÁTICA EMPRESARIAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600002','BACHILLERATO EN INFORMÁTICA EMPRESARIAL');
+
+-- Carrera: BACH. Y LIC. EN LA ENSEÑANZA DEL INGLÉS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600113','BACH. Y LIC. EN LA ENSEÑANZA DEL INGLÉS');
+
+-- Carrera: LIC. EN INGENIERÍA EN DESARROLLO SOSTENIBLE
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600209','LIC. EN INGENIERÍA EN DESARROLLO SOSTENIBLE');
+
+-- Carrera: BACH. Y LIC. EN AGRONOMÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('910102','BACH. Y LIC. EN AGRONOMÍA');
+
+-- Carrera 1
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('330102', 'BACH. Y LIC. EN DIRECCIÓN DE EMPRESAS');
+
+-- Carrera 2
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('600002', 'BACHILLERATO EN INFORMÁTICA EMPRESARIAL');
+
+-- Carrera 3
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('600113', 'BACH. Y LIC EN LA ENSEÑANZA DEL INGLÉS');
+
+-- Carrera 4
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('600307', 'BACH. EN TURISMO ECOLÓGICO Y LIC. GESTIÓN ECOTURISTICA');
+
+-- Carrera: BACH. Y LIC. EN LA ENSEÑANZA DE LA MATEMÁTICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320243', 'BACH. Y LIC. EN LA ENSEÑANZA DE LA MATEMÁTICA');
+
+-- Carrera: BACH. Y LIC. EN CONTADURÍA PÚBLICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330103', 'BACH. Y LIC. EN CONTADURÍA PÚBLICA');
+
+-- Carrera: BACHILLERATO EN INFORMÁTICA EMPRESARIAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600002', 'BACHILLERATO EN INFORMÁTICA EMPRESARIAL');
+
+-- Carrera: BACH. CIENCIAS EDUCACIÓN PRIMARIA CONCENTRACIÓN EN INGLÉS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600120', 'BACH. CIENCIAS EDUCACIÓN PRIMARIA CONCENTRACIÓN EN INGLÉS');
+
+-- Carrera: BACH. ECONOMÍA AGRÍCOLA Y AGRONEG. Y LIC. ECON. AGRÍCOLA Y AGRON.
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('910307', 'BACH. ECONOMÍA AGRÍCOLA Y AGRONEG. Y LIC. ECON. AGRÍCOLA Y AGRON.');
+
+-- Carrera: BACH. EN INGLÉS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('120303','BACH. EN INGLÉS');
+
+-- Carrera: BACH. Y LIC. EN DERECHO
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('310101','BACH. Y LIC. EN DERECHO');
+
+-- Carrera: BACH. Y LIC. EN DIRECCIÓN DE EMPRESAS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330102','BACH. Y LIC. EN DIRECCIÓN DE EMPRESAS');
+
+-- Carrera: DIPL. ADM. ADUANERA, BACH. ADM. ADUANERA Y COMERCIO EXTER.
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330212','DIPL. ADM. ADUANERA, BACH. ADM. ADUANERA Y COMERCIO EXTER.');
+
+-- Carrera: BACH. Y LIC. EN PSICOLOGÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('340201','BACH. Y LIC. EN PSICOLOGÍA');
+
+-- Carrera: LIC. EN INGENIERÍA CIVIL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('420101','LIC. EN INGENIERÍA CIVIL');
+
+-- Carrera: BACH. Y LIC. EN INGENIERÍA ELÉCTRICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('420201','BACH. Y LIC. EN INGENIERÍA ELÉCTRICA');
+
+-- Carrera: BACH. Y LIC. EN SALUD AMBIENTAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('510408','BACH. Y LIC. EN SALUD AMBIENTAL');
+
+-- Carrera: BACHILLERATO EN INFORMÁTICA EMPRESARIAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600002','BACHILLERATO EN INFORMÁTICA EMPRESARIAL');
+
+-- Carrera: BACH. EN CIENCIAS DE LA EDUCACIÓN PRIMARIA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600117','BACH. EN CIENCIAS DE LA EDUCACIÓN PRIMARIA');
+
+-- Carrera: BACH. CIENCIAS EDUCACIÓN PRIMARIA CONCENTRACIÓN EN INGLÉS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600120','BACH. CIENCIAS EDUCACIÓN PRIMARIA CONCENTRACIÓN EN INGLÉS');
+
+-- Carrera: BACH. EN CIENCIAS DE LA EDUCACIÓN INICIAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600124','BACH. EN CIENCIAS DE LA EDUCACIÓN INICIAL');
+
+-- Carrera: BACH. EN TURISMO ECOLÓGICO Y LIC. GESTIÓN ECOTURISTICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600307','BACH. EN TURISMO ECOLÓGICO Y LIC. GESTIÓN ECOTURISTICA');
+
+-- Carrera: BACH. Y LIC. EN AGRONOMÍA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('910102','BACH. Y LIC. EN AGRONOMÍA');
+
+-- Carrera: LICENCIATURA EN INGENIERÍA DE ALIMENTOS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('910402','LICENCIATURA EN INGENIERÍA DE ALIMENTOS');
+
+-- Carrera: BACH. EN INGLÉS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('120303', 'BACH. EN INGLÉS');
+
+-- Carrera: BACH. Y LIC. EN DIRECCIÓN DE EMPRESAS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('330102', 'BACH. Y LIC. EN DIRECCIÓN DE EMPRESAS');
+
+-- Carrera: BACH. Y LIC. EN CONTADURÍA PÚBLICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('330103', 'BACH. Y LIC. EN CONTADURÍA PÚBLICA');
+
+-- Carrera: DIPL. ADM. ADUANERA, BACH. ADMINIST. ADUANERA Y COMERCIO EXTERIOR
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('330212', 'DIPL. ADM. ADUANERA, BACH. ADMINIST. ADUANERA Y COMERCIO EXTERIOR');
+
+-- Carrera: LIC. EN INGENIERÍA QUÍMICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('420501', 'LIC. EN INGENIERÍA QUÍMICA');
+
+-- Carrera: BACHILLERATO EN INFORMÁTICA EMPRESARIAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('600002', 'BACHILLERATO EN INFORMÁTICA EMPRESARIAL');
+
+-- Carrera: BACH. EN LA ENS. DEL INGLES
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('600116', 'BACH. EN LA ENS. DEL INGLES');
+
+-- Carrera: BACH. EN TURISMO ECOLÓGICO Y LIC. GESTIÓN ECOTURISTICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('600307', 'BACH. EN TURISMO ECOLÓGICO Y LIC. GESTIÓN ECOTURISTICA');
+
+-- Carrera: BACH. EN LA ENSEÑANZA DEL INGLÉS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320208','BACH. EN LA ENSEÑANZA DEL INGLÉS');
+
+-- Carrera: BACH. Y LIC. EN DIRECCIÓN DE EMPRESAS
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330102','BACH. Y LIC. EN DIRECCIÓN DE EMPRESAS');
+
+-- Carrera: BACH. Y LIC. EN INGENIERÍA ELÉCTRICA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('420201','BACH. Y LIC. EN INGENIERÍA ELÉCTRICA');
+
+-- Carrera: BACHILLERATO EN INFORMÁTICA EMPRESARIAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600002','BACHILLERATO EN INFORMÁTICA EMPRESARIAL');
+
+-- Carrera: BACH. Y LIC. EN INFORMÁTICA Y TECNOLOGÍA MULTIMEDIA
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600502','BACH. Y LIC. EN INFORMÁTICA Y TECNOLOGÍA MULTIMEDIA');
+
+-- Carrera: BACH. Y LIC. EN INGLÉS CON FORMACIÓN EN GESTIÓN EMPRESARIAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600503','BACH. Y LIC. EN INGLÉS CON FORMACIÓN EN GESTIÓN EMPRESARIAL');
+
+-- Carrera: LIC. EN INGENIERÍA ELECTROMECÁNICA INDUSTRIAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600504','LIC. EN INGENIERÍA ELECTROMECÁNICA INDUSTRIAL');
+
+-- Carrera: BACH. EN GESTIÓN CULTURAL
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600505','BACH. EN GESTIÓN CULTURAL');
+
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('110214', 'BACH. Y LIC. EN DISEÑO GRÁFICO');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('210403', 'BACH. Y LIC. EN EDUCACION MATEMATICA');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('320259', 'BACH. Y LIC. EN LA ENSEÑANZA DE CIENCIAS NATURALES');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('330212', 'DIPL. ADM. ADUANERA, BACH. ADM. ADUANERA COM. EXT');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600002', 'BACHILLERATO EN INFORMÁTICA EMPRESARIAL');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera],[Nombre]) VALUES ('600307', 'BACH. EN TURISMO ECOLÓGICO Y LIC. GESTIÓN ECOTURISTICA');
+
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('110214', 'BACH. Y LIC. EN DISEÑO GRÁFICO');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('420302', 'LIC. EN INGENIERÍA INDUSTRIAL');
+INSERT INTO [dbo].[Carreras] ([Id_Carrera], [Nombre]) VALUES ('420404', 'LIC. INGENIERÍA MECÁNICA ÉNFASIS PROTECCIÓN CONTRA INCENDIOS');
+
+
+
+
+/*
+CREATE PROCEDURE EliminarProyecto
+    @Id_Proyecto nvarchar(50)
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    BEGIN TRANSACTION;
+	
+	DELETE FROM dbo.Proyecto_Direccion
+	WHERE Id_Proyecto = @Id_Proyecto;
+    -- Elimina registros de dbo.Proyecto_Direccion
+    DELETE FROM dbo.Proyecto_Direccion
+    WHERE Id_Proyecto = @Id_Proyecto;
+
+    -- Finalmente, elimina el registro de dbo.Proyectos
+    DELETE FROM dbo.Proyectos
+    WHERE Id_Proyecto = @Id_Proyecto;
+
+    COMMIT TRANSACTION;
+END;
+*/
